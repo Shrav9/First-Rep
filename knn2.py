@@ -1,6 +1,9 @@
+# First Code on Github
 #Implementing k-NN Algorithm
 
+
 #Loading libraries 
+
 from sklearn import preprocessing , model_selection
 from sklearn.neighbors import KNeighborsClassifier
 import pandas as pd 
